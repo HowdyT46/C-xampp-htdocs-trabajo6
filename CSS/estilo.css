@@ -1,0 +1,61 @@
+body{
+    background: rgb(0, 0, 255);
+}
+#contenedor{
+    position: relative;
+}
+#arriba{
+    position: absolute;
+    top: 255px;left: 5px;
+    border: none;
+    opacity: 0.8;
+}
+#arriba2{
+    position: absolute;
+    top: 315px;left: 500px;
+    border: none;
+    opacity: 0.8;
+
+    
+}
+#arriba3{
+    position: absolute;
+    top: 255px;left:250px;
+    border: none;
+    opacity: .8;
+
+    
+}
+#arriba4{
+    position: absolute;
+    top: 120px;right: 270px;
+    border: none;
+    opacity: 0.7;
+}
+
+h1{
+    position: absolute;
+    top: 50px;left: 500px;
+    border: none;
+    opacity: 0.9;
+    color: rgb(14, 122, 255);
+    font-size: 50px;
+}
+
+canvas{
+    margin: 0 auto;
+}
+h3, p{
+    margin: 10px;
+    background: rgb(255, 255, 0);
+    color: #ff0000;
+    font-family: sans-serif;
+    font-size: 200%;
+    font-weight: bold;
+}
+
+#a0{color: rgb(255, 0, 0,0%);}
+#a25{color: rgb(255, 0, 0,25%);}
+#a50{color: rgb(255, 0, 0,50%);}
+#a75{color: rgb(255, 0, 0,75%);}
+#a100{color: rgb(255, 0, 0,100%);}
